@@ -1,2 +1,2 @@
 # pervaziv-scan
-Scan code repo
+Scan code repo. To be updated with rules.
